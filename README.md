@@ -1,4 +1,4 @@
-#DES in Verilog on Digilent Nexys A7
+# DES in Verilog on Digilent Nexys A7
 
 A from-scratch Verilog implementation of the Data Encryption Standard (DES), synthesized and deployed on a Digilent Nexys A7 FPGA. Includes a UART interface that streams 64-bit plaintext and ciphertext to Tera Term for live verification.
 
